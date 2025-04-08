@@ -1,0 +1,222 @@
+[
+  {
+    "Marque": "Toyota",
+    "Modele": "Corolla",
+    "Annee": 2021,
+    "Couleur": "Bleu",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": false,
+      "GPS": true,
+      "ToitOuvrant": false,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": false,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": false
+    },
+    "URL": "https://example.com/toyota_corolla_2021.jpg"
+  },
+  {
+    "Marque": "Honda",
+    "Modele": "Civic",
+    "Annee": 2020,
+    "Couleur": "Rouge",
+    "Transmission": "Manuelle",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": false,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": false,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/honda_civic_2020.jpg"
+  },
+  {
+    "Marque": "Ford",
+    "Modele": "Mustang",
+    "Annee": 2022,
+    "Couleur": "Noir",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": true,
+      "ToitOuvrant": false,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/ford_mustang_2022.jpg"
+  },
+  {
+    "Marque": "Chevrolet",
+    "Modele": "Malibu",
+    "Annee": 2019,
+    "Couleur": "Blanc",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": false,
+      "GPS": true,
+      "ToitOuvrant": false,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": false,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": false
+    },
+    "URL": "https://example.com/chevrolet_malibu_2019.jpg"
+  },
+  {
+    "Marque": "Nissan",
+    "Modele": "Altima",
+    "Annee": 2020,
+    "Couleur": "Gris",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": false,
+      "GPS": true,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": false,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/nissan_altima_2020.jpg"
+  },
+  {
+    "Marque": "BMW",
+    "Modele": "Serie 3",
+    "Annee": 2021,
+    "Couleur": "Noir",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": true,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/bmw_serie3_2021.jpg"
+  },
+  {
+    "Marque": "Mercedes-Benz",
+    "Modele": "C-Class",
+    "Annee": 2022,
+    "Couleur": "Argent",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": true,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/mercedes_c_class_2022.jpg"
+  },
+  {
+    "Marque": "Audi",
+    "Modele": "A4",
+    "Annee": 2021,
+    "Couleur": "Blanc",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": true,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/audi_a4_2021.jpg"
+  },
+  {
+    "Marque": "Volkswagen",
+    "Modele": "Passat",
+    "Annee": 2020,
+    "Couleur": "Bleu",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": false,
+      "GPS": true,
+      "ToitOuvrant": true,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": false,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/vw_passat_2020.jpg"
+  },
+  {
+    "Marque": "Hyundai",
+    "Modele": "Elantra",
+    "Annee": 2019,
+    "Couleur": "Rouge",
+    "Transmission": "Manuelle",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": false,
+      "GPS": true,
+      "ToitOuvrant": false,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": false,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": false
+    },
+    "URL": "https://example.com/hyundai_elantra_2019.jpg"
+  },
+  {
+    "Marque": "Kia",
+    "Modele": "Optima",
+    "Annee": 2020,
+    "Couleur": "Argent",
+    "Transmission": "Automatique",
+    "Options": {
+      "AirConditionne": true,
+      "Cuir": true,
+      "GPS": true,
+      "ToitOuvrant": false,
+      "Bluetooth": true,
+      "CameraDeRecul": true,
+      "SiegesChauffants": true,
+      "ControleDeStabilite": true,
+      "VitresElectriques": true,
+      "AssistanceAuStationnement": true
+    },
+    "URL": "https://example.com/kia_optima_2020.jpg"
+  }
+]
