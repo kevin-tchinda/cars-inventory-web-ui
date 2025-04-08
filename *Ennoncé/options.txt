@@ -1,0 +1,12 @@
+{
+  "AirConditionne": "Climatisation",
+  "Cuir": "Sièges en cuir",
+  "GPS": "Système de navigation GPS",
+  "ToitOuvrant": "Toit ouvrant",
+  "Bluetooth": "Connectivité Bluetooth",
+  "CameraDeRecul": "Caméra de recul",
+  "SiegesChauffants": "Sièges chauffants",
+  "ControleDeStabilite": "Contrôle de stabilité",
+  "VitresElectriques": "Vitres électriques",
+  "AssistanceAuStationnement": "Assistance au stationnement"
+}
